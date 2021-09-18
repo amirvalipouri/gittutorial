@@ -30,6 +30,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Abolfazl Akbarzadeh Mola ](https://github.com/AbakSource)
 - [Seyed mohammad mirfatemi :speech_balloon:](https://github.com/kiumad)
 - [**hadi🤞**✔](https://github.com/h-di)
+- [amirvalipouri](https://github.com/amirvalipouri)
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [:sunglasses: Ehsan Eftekhari :sunglasses:](https://github.com/ehsaneftekhari)
 - [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
